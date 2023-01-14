@@ -5,5 +5,7 @@ Description : Prints Hello world into the console
 
 
 ```java
-System.out.println("Hello world");
+static void Example(){
+    System.out.println("Hello world");
+}
 ```

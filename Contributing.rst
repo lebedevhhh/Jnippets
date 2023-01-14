@@ -37,7 +37,6 @@ Same as Snippets
 
 Write java code in .md files
 ----------------------------
-
 Same as Snippets
 
 Presentation of the file
@@ -46,7 +45,3 @@ Presentation of the file
     -name : ...
     -Date: ...
     -Description : <DESCRIPTION OF THE ALGORITHM> or <link to webpage explaining the algorithm>
-
-
-
-
