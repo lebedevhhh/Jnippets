@@ -12,9 +12,9 @@ Files created
 Write java code in .md files
 ----------------------------
 
-```java
+"```java
 System.out.println("hello world");
-```
+```"
 
 Presentation of the file
 ------------------------
