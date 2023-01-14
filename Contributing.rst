@@ -16,7 +16,9 @@ Write java code in .md files
 System.out.println("hello world");
 \`\`\`
 
-Note : Java Code should be concise, short and shouldn't contain any comments.
+Note : Java Code should be concise, short and shouldn't contain any comments. 
+Also, make sure your programm works well.
+
 
 Presentation of the file
 ------------------------
