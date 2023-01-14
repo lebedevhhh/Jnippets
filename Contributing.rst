@@ -1,5 +1,5 @@
-How to contribute to Flask
-==========================
+How to contribute to JavaSnipperts Part : Snippets
+==================================================
 
 Files created
 -------------
@@ -16,6 +16,8 @@ Write java code in .md files
 System.out.println("hello world");
 \`\`\`
 
+Note : Java Code should be concise, short and shouldn't contain any comments.
+
 Presentation of the file
 ------------------------
 
@@ -24,6 +26,27 @@ Every file shall start in this manner :
     -name : ...
     -Date: ...
     -Description : <DESCRIPTION OF THE SNIPPET>
+
+
+How to contribute to JavaSnipperts Part : JavaAlgorithms 
+========================================================
+
+Files create
+------------
+Same as Snippets
+
+Write java code in .md files
+----------------------------
+
+Same as Snippets
+
+Presentation of the file
+------------------------
+    -title : nameOfTheAlgorithm
+    -name : ...
+    -Date: ...
+    -Description : <DESCRIPTION OF THE ALGORITHM> or <link to webpage explaining the algorithm>
+
 
 
 
