@@ -4,7 +4,8 @@ How to contribute to JavaSnipperts Part : Snippets
 Files created
 -------------
 ``.class`` file's extensions are not allowed.
-``.java`` file's extension are not allowed.
+``.java`` file's extension are allowed
+``.class`` file's arent allowed (to put in your gitignore)
 ``.md`` file's extension  are allowed.
 ``<nameOfFile>`` should be explicit to the programm.
 
