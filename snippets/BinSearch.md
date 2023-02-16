@@ -1,7 +1,7 @@
 title: Binary Search
 name: lebedevhh_
 Date : 2/14/2023
-Description : Binary search on sorted array, returns the index of the found number
+Description : Binary search on sorted array, returns the index of the found number (video : https://youtu.be/NFhOrxtXXcM)
 
 
 ```java
