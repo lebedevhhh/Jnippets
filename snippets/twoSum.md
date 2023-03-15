@@ -1,7 +1,7 @@
-title: sumDigitsOfNumber.md
+title: twoSums.md
 name: lebedevhh__
-Date: 1/14/2023
-Description : sum the digits of a number 
+Date: 3/14/2023
+Description : finds the indexes of two numbers if they sum up to target 
 
 
 ```java
@@ -15,5 +15,4 @@ public int[] twoSum(int[] nums, int target){
         map.put(i, target-nums);
     }
 }
-
 ```
