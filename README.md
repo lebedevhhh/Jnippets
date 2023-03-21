@@ -12,3 +12,4 @@ Take a look to the example.md file , you can also use .java files
 # Problems folder 
 create new folder with website new (for problems)
 Name file as the problem's name
+run the `script.py` file to remove all the .class files
