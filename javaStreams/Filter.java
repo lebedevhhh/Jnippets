@@ -30,7 +30,7 @@ public class Filter{
         //with the java streanms
         oldPersons =persons.stream().filter(Person::isOld).collect(Collectors.toList());
         //without the isOld method 
-        oldPersons=persons.stream().filter(p -> p.age>50).collect(Collectors.toList());`
+        oldPersons=persons.stream().filter(p -> p.age>50).collect(Collectors.toList());
     }   
 
     private static List<Person> getPPL(){
