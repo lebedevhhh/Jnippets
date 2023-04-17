@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//src : https://youtu.be/rjDUpxtUPAE
 public class RemoveIf {
     public static void main(String[] args){
         //remember that the arraylist collection is non-concurrent
